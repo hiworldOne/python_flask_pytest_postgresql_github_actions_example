@@ -16,10 +16,12 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    # add postgresql
     services:
       postgres:
         image: postgres:latest
         env:
+          # postgresql setting
           POSTGRES_DB: testdb
           POSTGRES_USER: testdb
           POSTGRES_PASSWORD: password
