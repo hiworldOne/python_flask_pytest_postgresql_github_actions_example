@@ -9,6 +9,7 @@ Setting GitHub Actions: [Actions](https://github.com/hiworldOne/python_flask_pyt
 
 library: [Pytest](https://pytest.org)
 
-Hiword: [Python Flask Pytest Postgres GitHub Actions Example](https://hiworld.one/post/python-flask-pytest-postgres-github-actions-example)
+Hiword: [Python Flask Pytest Postgres GitHub Actions Example](https://hiworld.one/post/Python-Flask-Pytest-Postgres-GitHub-Actions-Example
+)
 
 
